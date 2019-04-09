@@ -1,11 +1,6 @@
 # ZenWorld
-Forays into the online repository community.
 
-Taking the time to learn GitHub.  
+Various documents written over the years.
 
-GitHub may be useful to store items of interest that may be of use to others in the world.
+The SCCM Application Packaging with PowerShell How-To Guide has been moved to the Sccm-ApplicationPackaging-PowerShell repository.
 
-For now, I am learning the interface and process.
-
-Regards,
--- JRS
